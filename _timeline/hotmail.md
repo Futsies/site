@@ -6,5 +6,4 @@ caption: Το Hotmail ήταν μια από τις πρώτες διαδικτ�
 events:
   - hotmail
   - bbs
-  - cb-simulator
 ---
